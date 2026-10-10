@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Medicine Information System",
+  "description": "Smart Agriculture Management Platform for crop diseases, verified treatments, dosage calculation, and weather advisory in Marathi, Hindi, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
